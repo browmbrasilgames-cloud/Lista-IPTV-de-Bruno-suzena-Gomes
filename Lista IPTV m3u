@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1 tvg-name="SBT CHANNEL" tvg-logo="https://televisao.tv//images/loader.svg" group-title="canais",SBT CHANNEL
+https://televisao.tv//sbt
+#EXTINF:1 tvg-name="band" tvg-id="band" tvg-logo="https://televisao.tv//images/loader.svg" group-title="canais",band
+https://televisao.tv//band
+#EXTINF:1 tvg-name="telecine filmes" tvg-logo="https://televisao.tv/images/telecine-1.webp" group-title="filmes",telecine filmes
+https://televisao.tv/filmes/telecine-4
+#EXTINF:1 tvg-name="miraculous word xangai" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/2/27/Miraculous_Shanghai_-_poster_%28Brazilian_Portuguese%29.webp/revision/latest?cb=20240117162758" group-title="filmes",miraculous word xangai
+https://watch2movies.net/watch-movie/watch-miraculous-world-shanghai-the-legend-of-ladydragon-full-70022.4224311
